@@ -1,0 +1,17 @@
+# Smart Vehicle Traffic Sign Recognition - Requirements
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+scikit-image>=0.18.0
+
+# Numerical Computing
+numpy>=1.19.0
+
+# Model Serialization
+joblib>=1.0.0
+
+# Note: sklearn.externals.joblib is deprecated
+# The code should be updated to use 'import joblib' directly
